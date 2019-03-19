@@ -24,3 +24,6 @@ dist/*
 
 # Ignore NPM installation status file
 **/package-lock.json
+
+# Ignore idea ide file
+**/.idea
